@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d0826f980e26de7af318e4b4",
+  "owner": "qvrvvhyp",
+  "repo": "page-d782ec8a76193249199cca80",
+  "title": "小火箭下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d782ec8a76193249199cca80",
+      "a": "小火箭下载",
+      "b": "",
+      "entity": "小火箭下载",
+      "brand": "小火箭下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "af8a29a3e5564a4ee332814b9209c2a75d391a3d8ad079111bd6329592b0cb91",
+      "content": {
+        "keyword1": "小火箭下载",
+        "keyword2": "",
+        "primary_entity": "小火箭下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭下载提供优质VPN机场加速服务，高速流量支持多设备，解锁流媒体。立即下载客户端体验极速网络加速。",
+          "AI_DESCRIPTION": "小火箭下载提供优质VPN机场加速服务，高速流量支持多设备，解锁流媒体。立即下载客户端体验极速网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #6b46c1;\n            --gray: #f8f9fa;\n            --white: #ffffff;\n        }\n        body {\n            background: var(--gray);\n            color: #333;\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.7;\n            margin: 0;\n            padding: 0;\n            -webkit-font-smoothing: antialiased;\n        }\n        main {\n            max-width: 820px;\n            margin: 0 auto;\n            padding: 20px 15px;\n        }\n        h1 {\n            color: var(--primary);\n            font-size: 2.6rem;\n            text-align: center;\n            margin: 30px 0 10px;\n            font-weight: 700;\n        }\n        .subtitle {\n            text-align: center;\n            font-size: 1.25rem;\n            color: #555;\n            margin-bottom: 40px;\n        }\n        h2 {\n            color: #2c2c2c;\n            font-size: 1.75rem;\n            margin: 45px 0 18px;\n            border-bottom: 2px solid #e5e7eb;\n            padding-bottom: 12px;\n        }\n        p, ul, ol {\n            font-size: 1.1rem;\n            margin: 12px 0;\n        }\n        .intro {\n            background: var(--white);\n            padding: 25px;\n            border-radius: 12px;\n            margin-bottom: 30px;\n            box-shadow: 0 2px 6px rgba(0,0,0,0.04);\n        }\n        .steps {\n            background: var(--white);\n            padding: 25px;\n            border-radius: 12px;\n            margin-bottom: 30px;\n            box-shadow: 0 2px 6px rgba(0,0,0,0.04);\n        }\n        ol {\n            counter-reset: step-counter;\n        }\n        ol li {\n            position: relative;\n            padding-left: 45px;\n            margin-bottom: 18px;\n        }\n        ol li:before {\n            content: counter(step-counter);\n            counter-increment: step-counter;\n            position: absolute;\n            left: 0;\n            top: 2px;\n            width: 28px;\n            height: 28px;\n            background: var(--primary);\n            color: white;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n        }\n        .plans {\n            display: flex;\n            flex-direction: column;\n            gap: 20px;\n        }\n        .plan-card {\n            background: var(--white);\n            padding: 28px;\n            border-radius: 12px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n            transition: transform 0.2s;\n        }\n        .plan-card:hover {\n            transform: translateY(-4px);\n        }\n        .plan-card.featured {\n            background: #f3e8ff;\n            border: 3px solid var(--primary);\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: \"★ 推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: var(--primary);\n            color: white;\n            padding: 4px 18px;\n            border-radius: 20px;\n            font-size: 0.9rem;\n            font-weight: bold;\n        }\n        .plan-name {\n            font-size: 1.45rem;\n            margin-bottom: 8px;\n            color: #2c2c2c;\n        }\n        .plan-price {\n            font-size: 1.35rem;\n            color: var(--primary);\n            margin-bottom: 16px;\n            font-weight: 600;\n        }\n        .plan-features {\n            list-style: none;\n            padding: 0;\n        }\n        .plan-features li {\n            padding: 6px 0;\n            position: relative;\n            padding-left: 26px;\n        }\n        .plan-features li:before {\n            content: \"✓\";\n            position: absolute;\n            left: 0;\n            color: var(--primary);\n        }\n        .download {\n            background: var(--white);\n            padding: 25px;\n            border-radius: 12px;\n            margin: 30px 0;\n            text-align: center;\n            box-shadow: 0 2px 6px rgba(0,0,0,0.04);\n        }\n        .download-btn {\n            display: inline-block;\n            background: var(--primary);\n            color: white;\n            padding: 14px 32px;\n            border-radius: 9999px;\n            text-decoration: none;\n            font-size: 1.15rem;\n            margin: 10px 8px;\n            transition: background 0.3s;\n        }\n        .download-btn:hover {\n            background: #5a37a8;\n        }\n        .faq {\n            margin-top: 20px;\n        }\n        details {\n            background: var(--white);\n            margin-bottom: 12px;\n            border-radius: 8px;\n            padding: 0 18px;\n        }\n        summary {\n            font-weight: 600;\n            font-size: 1.15rem;\n            padding: 18px 0;\n            cursor: pointer;\n            list-style: none;\n            position: relative;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        summary:after {\n            content: \"▼\";\n            position: absolute;\n            right: 0;\n            transition: transform 0.3s;\n        }\n        details[open] summary:after {\n            transform: rotate(180deg);\n        }\n        .faq answer {\n            padding: 0 0 20px;\n            display: block;\n        }\n        footer {\n            margin-top: 60px;\n            text-align: center;\n            padding: 30px 0;\n            border-top: 1px solid #e5e7eb;\n            color: #777;\n            font-size: 0.95rem;\n        }\n        .footer-links {\n            margin-top: 20px;\n        }\n        .footer-links a {\n            color: var(--primary);\n            margin: 0 12px;\n            text-decoration: none;\n        }\n        @media (max-width: 640px) {\n            h1 {\n                font-size: 2.2rem;\n            }\n            main {\n                padding: 15px 10px;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>小火箭下载</h1>\n        <p class=\"subtitle\">专业VPN机场加速器 | 高速流量 | 客户端下载</p>\n\n        <div class=\"intro\">\n            <h2>品牌简介</h2>\n            <p>小火箭下载是一款领先的VPN机场加速器，提供稳定高速的网络连接服务。支持多设备在线，解锁全球流媒体内容，助力用户畅享安全、私密且极速的上网体验。</p>\n            <p>无论在家办公、在线游戏还是高清追剧，小火箭下载都能让您的网络畅通无阻。</p>\n        </div>\n\n        <div class=\"steps\">\n            <h2>使用场景</h2>\n            <ul>\n                <li>家庭娱乐：解锁Netflix、Disney+、YouTube等流媒体</li>\n                <li>远程办公：稳定低延迟连接不掉线</li>\n                <li>游戏加速：IPLC专线优化游戏延迟</li>\n                <li>海外访问：安全访问被墙网站与服务</li>\n            </ul>\n        </div>\n\n        <div class=\"steps\">\n            <h2>操作说明</h2>\n            <ol>\n                <li>访问官网选择适合的套餐进行订阅支付</li>\n                <li>下载官方客户端（支持Windows、macOS、iOS、Android）</li>\n                <li>安装后导入订阅链接，客户端自动更新节点</li>\n                <li>选择最佳节点一键连接，享受高速加速</li>\n            </ol>\n        </div>\n\n        <h2>套餐对比</h2>\n        <div class=\"plans\">\n            \n            <div class=\"plan-card\">\n                <div class=\"plan-name\">基础版</div>\n                <div class=\"plan-price\">¥15/月 <span>（按年付仅需 ¥150/年）</span></div>\n                <ul class=\"plan-features\">\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n\n            \n            <div class=\"plan-card featured\">\n                <div class=\"plan-name\">旗舰版</div>\n                <div class=\"plan-price\">¥35/月 <span>（按年付仅需 ¥350/年）</span></div>\n                <ul class=\"plan-features\">\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n\n            \n            <div class=\"plan-card\">\n                <div class=\"plan-name\">团队版</div>\n                <div class=\"plan-price\">¥85/月 <span>（按年付仅需 ¥850/年）</span></div>\n                <ul class=\"plan-features\">\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </div>\n\n        <div class=\"download\">\n            <h2>立即下载客户端</h2>\n            <a href=\"#\" class=\"download-btn\">Windows / macOS 下载</a>\n            <a href=\"#\" class=\"download-btn\">iOS / Android 下载</a>\n            <p>官方正版客户端，安全稳定，无需注册即可使用</p>\n        </div>\n\n        <h2>常见问题 FAQ</h2>\n        <div class=\"faq\">\n            <details>\n                <summary>小火箭下载是什么？</summary>\n                <div class=\"faq-answer\">小火箭下载是一款专业的VPN机场加速器，提供高速稳定网络连接，帮助用户解锁全球流媒体并提升上网速度。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"faq-answer\">支持 Windows、macOS、iOS、Android 官方客户端，同时支持多设备同时在线（基础版3台、旗舰版5台、团队版20台）。</div>\n            </details>\n            <details>\n                <summary>流量是多少？如何计算？</summary>\n                <div class=\"faq-answer\">每月流量有固定额度（基础版100GB、旗舰版300GB、团队版1000GB），超过部分不予计算，次月自动重置。</div>\n            </details>\n            <details>\n                <summary>支持流媒体解锁吗？</summary>\n                <div class=\"faq-answer\">旗舰版及以上支持全节点原生流媒体解锁，包括Netflix、Disney+、YouTube、Bilibili等主流平台。</div>\n            </details>\n            <details>\n                <summary>节点质量如何？</summary>\n                <div class=\"faq-answer\">所有套餐均提供高速线路，旗舰版以上提供IPLC专线优化，团队版提供VIP高带宽专属节点。</div>\n            </details>\n            <details>\n                <summary>如何获取最新节点？</summary>\n                <div class=\"faq-answer\">订阅后客户端会自动更新节点列表，无需手动操作，随时获取最优线路。</div>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <div class=\"faq-answer\">旗舰版以上提供7x24优先工单支持，团队版有专属客户经理服务，快速响应您的使用问题。</div>\n            </details>\n        </div>\n\n        <footer>\n            <p>© 2025 小火箭下载 官网</p>\n            <div class=\"footer-links\">\n                <a href=\"#\">官网下载</a>\n                <a href=\"#\">套餐对比</a>\n                <a href=\"#\">使用指南</a>\n                <a href=\"#\">FAQ</a>\n            </div>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "8a607e413b4ed7f63cc4bff410954d8a3aacc5a3b17a90300894331e5514d6a3",
+          "seo": {
+            "title": "小火箭下载 - 机场订阅 VPN 加速器 客户端下载 官网",
+            "keywords": "小火箭下载, 机场, VPN, 加速器, 客户端下载, 网络加速",
+            "description": "小火箭下载提供优质VPN机场加速服务，高速流量支持多设备，解锁流媒体。立即下载客户端体验极速网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ycsc1688.cn",
+    "host": "p-86e20e6802.ycsc1688.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "79dbf1cb7b611a22c8acdfe395efc30fc18d4296fd33db547895f926d936d0d5",
+    "sitemap.xml": "0a3670848c46f843074bf497656a09c4dfec990c2d5c591ed50088ef37388c0e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0ee6b0147cbb90fd92873a655926dab289561120a00c06cbb720f92820e01e42",
+    "robots.txt": "50d83a73d677e1c72675557b01cc133f63ad3c4a27297076b2c387f21155f988",
+    "2b5115193066d1f59a4b2831e273bf05.txt": "6f682221141f7acbcd77d3235256fa865a53efac610190d1a8e981a7737c9c8f"
+  },
+  "revision": "4ed4d713be1460b4d7fc68fc373470b526197a1c08a867eaf01275aa83a0769f"
+}
